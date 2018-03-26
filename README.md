@@ -1,9 +1,11 @@
 # 17pets
 養狗狗,讓你線上體驗養狗的樂趣,上班上課偷玩必備.
 
-Web:https://17pets.com
+Web Game:https://17pets.com
 
-Android:https://play.google.com/store/apps/details?id=com.pets
+Android: https://play.google.com/store/apps/details?id=com.pets
+
+FaceBook粉絲專業:https://www.facebook.com/17pets-823729891168505
 
 開發日誌
 2018/03/20 版本 1.4 
