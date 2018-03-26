@@ -5,7 +5,7 @@ Web Game:https://17pets.com
 
 Android: https://play.google.com/store/apps/details?id=com.pets
 
-FaceBook粉絲專業:https://www.facebook.com/17pets-823729891168505
+FaceBook粉絲專頁:https://www.facebook.com/17pets-823729891168505
 
 開發日誌
 2018/03/20 版本 1.4 
